@@ -25,7 +25,7 @@
 }
 -(void) print
 {
-    NSLog(@"%i/%i",numerator,denominator);
+    NSLog(@"%d/%d",numerator,denominator);
 }
 
 -(void) setNumerator:(int)n
